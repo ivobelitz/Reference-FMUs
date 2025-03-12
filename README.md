@@ -1,4 +1,4 @@
-# Reference FMUs
+# Reference FMU
 
 A set of hand-coded FMUs for development, testing and debugging of the [Functional Mock-up Interface](https://fmi-standard.org/).
 
